@@ -1,22 +1,17 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "HTML Character Escaping",
+    "slug": "html-character-escaping",
+    "description": "An introduction to character escaping in HTML, including several examples of common escapes.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "html"
     ],
     "duration": 0,
     "prerequisites": [
-        "",
-        ""
+        "programming-character-escaping"
     ],
     "related": [
-        "",
-        ""
     ]
 }
